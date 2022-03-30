@@ -1,3 +1,5 @@
+Simple discord nuker
+
 # Devious-Nuker-
 fast nuker coded in python (not really just made for fun)
 
